@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">INF0251Atrabalho3</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">API de moedas</string>
+    <string name="nav_header_subtitle">https://docs.awesomeapi.com.br/api-de-moedas</string>
+    <string name="nav_header_desc">Navigation header</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_average">Média</string>
+    <string name="menu_historic">Histórico</string>
+    <string name="menu_settings">Configurações</string>
+
+    <string name="no_network_available">Você está sem conexão com a internet.</string>
+    <string name="loading">Carregando...</string>
+    <string name="api_failed">Não foi possível buscar o valor atualizado da moeda.\n\nO último valor obtido foi:</string>
+    <string name="cifrao">R$</string>
+    <string name="value_of">Valor de</string>
+    <string name="buy">Compra</string>
+    <string name="sale">Venda</string>
+    <string name="current_currency">Moeda: %1$s</string>
+
+    <string name="average">Média</string>
+
+    <string name="select_currency">Selecione a moeda:</string>
+    <string name="select_time">Selecione o intervalo de tempo das consultas à API em background:</string>
+
+    <string name="notification_title">Notificação App INF0251Atrabalho3</string>
+    <string name="notification_message">Alteração no valor da Moeda</string>
+</resources>
